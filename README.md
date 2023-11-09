@@ -25,11 +25,6 @@ The data was analyzed to compare the distribution of key variables between patie
 
 A correlation matrix was generated to identify associations between variables. The strongest correlations with cardiovascular disease were:
 
-- Glucose levels: 0.43
-- BMI: 0.41
-- Smoking status: 0.37
-- Age: 0.35
-
 ## Conclusion
 
 In this patient data, abnormal glucose levels, high BMI, smoking, and advanced age had the highest correlations with increased cardiovascular disease risk. These findings can help inform screening and preventive health programs. Further analysis could examine interactions between risk factors and control for potential confounding variables.
